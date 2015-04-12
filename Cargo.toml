@@ -1,0 +1,8 @@
+[package]
+name = "roestig"
+version = "0.0.1"
+authors = ["Cody Harrington <cody at harringtonca.com>"]
+
+[[bin]]
+
+name = "roestig"
