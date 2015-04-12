@@ -6,6 +6,8 @@ IRC bot for #/g/sicp on Rizon. Anyone can contribute.
 
 ### Rust tutorial ###
 
+http://rustbyexample.com
+
 https://doc.rust-lang.org/book/README.html
 
 http://doc.rust-lang.org/nightly/intro.html
