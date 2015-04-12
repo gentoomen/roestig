@@ -1,0 +1,15 @@
+{
+	"networks": {
+		"rizon": {
+			"servers": ["irc.rizon.net/6667"],
+			"nicks": ["roestig"],
+			"username": "bot",
+			"password": ""
+		},
+		"freenode": {}
+	},
+	"admin": {
+		"gods": ["chchjesus", "Tadpole", "clsr"]
+	}
+}	
+
